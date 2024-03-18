@@ -1,0 +1,12 @@
+
+`
+java:S1854">Remove this useless assignment to local variable "secondTask".(ï¿Ž§ÿÿÿÿÿ8©Æà—å1
+L
+java:S2440"*Remove this instantiation of "SecondTask".(ï¿Ž§ÿÿÿÿÿ8«Æà—å1
+Q
+java:S1481"/Remove this unused "secondTask" local variable.(ï¿Ž§ÿÿÿÿÿ8«Æà—å1
+G	java:S106"+Replace this use of System.out by a logger.(šö¿î8í®•—å1
+G	java:S106"+Replace this use of System.out by a logger.(µñÄí8î®•—å1
+L	java:S106	"+Replace this use of System.out by a logger.(¼ŸƒÚùÿÿÿÿ8î®•—å1
+L	java:S106
+"+Replace this use of System.out by a logger.(„ð¨òøÿÿÿÿ8î®•—å1
